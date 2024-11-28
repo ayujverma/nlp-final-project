@@ -1,0 +1,4 @@
+# ignore the soccernet directory
+soccernet/
+# ignore venv
+venv/
