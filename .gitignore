@@ -1,2 +1,6 @@
 # ignore the soccernet directory
 soccernet/
+results/
+logs/
+log.zip
+model.zip
